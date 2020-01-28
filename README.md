@@ -22,5 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-https://stackoverflow.com/questions/7658011/how-to-implement-a-remember-me-function-in-rails-3
